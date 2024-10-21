@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background-color: red;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding: 12px;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
